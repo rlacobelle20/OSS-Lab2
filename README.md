@@ -1,8 +1,8 @@
-Rachel Lacobelle
+## Rachel Lacobelle
 <details open>
 <summary>Photo</summary>
 <br>
-Insert photo here
+C:\Users\lacobr\Pictures\IMG_3032.jpg
 </details>
-2024
-Music or Art
+## 2024
+## Music or Art
